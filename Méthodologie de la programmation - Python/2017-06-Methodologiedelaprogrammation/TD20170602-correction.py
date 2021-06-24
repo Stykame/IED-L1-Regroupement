@@ -60,7 +60,7 @@ M = [[1, 4, 7, 5],
      [9, 7, 5, 4]]
 
 # on affiche la transposee
-print transpose(M)
+print(transpose(M))
 
 sM = [   # matrice creuse pour le test
  [8, 0, 5, 0, 0, 0, 9, 0, 0, 8],
